@@ -21,7 +21,7 @@ This is a simple To-Do List application using Python's Tkinter library.
 
 ## Usage
 
-Run the script `todo_list.py` and follow the on-screen instructions.
+Run the script `main.py` and follow the on-screen instructions.
 
 ## License
 
